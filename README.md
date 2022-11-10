@@ -99,7 +99,7 @@ Example of padding:
 
 # License
 
-[MIT](https://github.com/s3c4/angular-ts-math/blob/master/LICENSE) © [Andrei Secareanu](https://github.com/s3c4)
+[MIT](https://github.com/s3c4/css-responsive-grid/blob/main/LICENSE) © [Andrei Secareanu](https://github.com/s3c4)
 
 Made with :blue_heart: from London
 
